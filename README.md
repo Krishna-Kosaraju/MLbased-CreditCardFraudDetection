@@ -37,25 +37,25 @@ The main goals of this project are as follows:
 To set up the project environment and run the code, follow these steps:
 
 1. Clone this repository to your local machine 
-2. Follow the instructions to install .Rproj file
+2. Run the .Rproj file
 
 ## Models
 
-We plan to explore the following machine learning models for credit card transaction analysis:
+I plan to explore the following machine learning models for credit card transaction analysis:
 
 1. Logistic Regression
 2. Decision Trees
 3. Random Forest
 5. XGBoost
 
-The choice of models allows us to compare different approaches and determine the best-fit model for the given dataset.
+The choice of models allows me to compare different approaches and determine the best-fit model for the given dataset.
 
 ## Results
 
-The results of our analysis, including model performance metrics and visualizations, will be summarized and discussed in the project report. We will share the key findings and insights obtained from the credit card transaction analysis.
+The results of my analysis, including model performance metrics and visualizations, will be summarized and discussed in the project report. I will share the key findings and insights obtained from the credit card transaction analysis.
 
 ## Contributing
 
-We welcome contributions to this project! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Please adhere to the project's code of conduct.
+I welcome contributions to this project! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Please adhere to the project's code of conduct.
 
 ---
