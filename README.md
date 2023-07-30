@@ -37,7 +37,7 @@ The main goals of this project are as follows:
 To set up the project environment and run the code, follow these steps:
 
 1. Clone this repository to your local machine 
-2. Follow the instructions 
+2. Follow the instructions to install .r file
 
 ## Models
 
