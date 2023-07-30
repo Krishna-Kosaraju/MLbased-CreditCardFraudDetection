@@ -1,8 +1,8 @@
-# Credit Card Transactions Analysis in Spain (2013)
+# MLbased-CreditCardFraudDetection
 
 ![Credit Card](https://example.com/credit-card-image.png) *(Replace this with an actual image related to credit cards or your project)*
 
-Welcome to the Credit Card Transactions Analysis project! This repository contains the code and analysis for studying credit card transactions by holders in Spain during the year 2013. The dataset used in this project consists of transactions that occurred over two days. The main focus of this project is to build and compare multiple models to better understand and predict credit card transaction patterns.
+Welcome to the Credit Card Transactions Analysis and Fraud project! This repository contains the code and analysis for studying credit card transactions by holders in Spain during the year 2013. The dataset used in this project consists of transactions that occurred over two days. The main focus of this project is to compare multiple models to better understand and predict credit card transaction patterns helping to identify fraud.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -65,8 +65,7 @@ We plan to explore the following machine learning models for credit card transac
 1. Logistic Regression
 2. Decision Trees
 3. Random Forest
-4. Support Vector Machines (SVM)
-5. Neural Networks (Deep Learning)
+5. XGBoost
 
 The choice of models allows us to compare different approaches and determine the best-fit model for the given dataset.
 
@@ -78,10 +77,4 @@ The results of our analysis, including model performance metrics and visualizati
 
 We welcome contributions to this project! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Please adhere to the project's code of conduct.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
-
-*Please update the sections and information as per your actual project and findings. The above content is just a template to help you get started.*
