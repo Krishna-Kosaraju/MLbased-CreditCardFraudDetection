@@ -1,6 +1,5 @@
 # MLbased-CreditCardFraudDetection
 
-![Credit Card](https://example.com/credit-card-image.png) *(Replace this with an actual image related to credit cards or your project)*
 
 Welcome to the Credit Card Transactions Analysis and Fraud project! This repository contains the code and analysis for studying credit card transactions by holders in Spain during the year 2013. The dataset used in this project consists of transactions that occurred over two days. The main focus of this project is to compare multiple models to better understand and predict credit card transaction patterns helping to identify fraud.
 
@@ -13,7 +12,6 @@ Welcome to the Credit Card Transactions Analysis and Fraud project! This reposit
 - [Models](#models)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
