@@ -8,7 +8,6 @@ Welcome to the Credit Card Transactions Analysis and Fraud project! This reposit
 - [Dataset](#dataset)
 - [Project Goals](#project-goals)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Models](#models)
 - [Results](#results)
 - [Contributing](#contributing)
@@ -37,24 +36,8 @@ The main goals of this project are as follows:
 
 To set up the project environment and run the code, follow these steps:
 
-1. Clone this repository to your local machine using:
-   ```
-   git clone https://github.com/your-username/credit-card-analysis.git
-   ```
-
-2. Install the required dependencies using:
-   ```
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-After completing the installation, you can use the provided Jupyter notebooks or Python scripts in the `src` directory to perform various tasks such as data preprocessing, model training, and analysis.
-
-```
-cd src/
-jupyter notebook
-```
+1. Clone this repository to your local machine 
+2. Follow the instructions 
 
 ## Models
 
